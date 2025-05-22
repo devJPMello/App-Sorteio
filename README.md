@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+🎲 App de Sorteio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Um aplicativo interativo para realizar sorteios de números ou nomes com diversas funcionalidades, temas personalizados e animações, desenvolvido com React.
 
-## Available Scripts
+🚀 Funcionalidades
 
-In the project directory, you can run:
+- ✅ Sorteio de números com ou sem repetição
 
-### `npm start`
+- ✅ Sorteio de nomes a partir de listas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ✅ Histórico de sorteios com botão para limpar
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- ✅ Contador regressivo opcional
 
-### `npm test`
+- ✅ Modo escuro, claro, cyberpunk e retrô 🌈
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ✅ Confete ao sortear 🎉 (canvas-confetti)
 
-### `npm run build`
+🖼️ Interface
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Sorteio em ação](public/image.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- A interface é responsiva e amigável, com destaque para a experiência visual e facilidade de uso:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 🎨 Alteração de tema com seletor visual
 
-### `npm run eject`
+- 🧾 Entrada de nomes com suporte a vírgulas e quebras de linha
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 🔒 Sorteios seguros sem repetições involuntárias
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 📦 Instalação Local
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Clone o repositório
+git clone https://github.com/devJPMello/app-de-sorteio.git
+cd app-de-sorteio
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Instale as dependências
+npm install
 
-## Learn More
+# Rode o app
+npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Acesse: http://localhost:3000
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🔧 Tecnologias
 
-### Code Splitting
+- React + Vite
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- CSS puro com suporte a temas
 
-### Analyzing the Bundle Size
+- canvas-confetti
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+👨‍💻 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Desenvolvido por DevJPMello
+🔗 LinkedIn • GitHub
 
-### Advanced Configuration
+📄 Licença
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Este projeto está licenciado sob a Licença MIT.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"Sorte é o encontro da preparação com a oportunidade." 🍀
