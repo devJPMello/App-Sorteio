@@ -50,11 +50,6 @@ npm start
 
 Acesse: http://localhost:3000
 
-# 👨‍💻 Autor
-
-- Desenvolvido por DevJPMello
-🔗 LinkedIn • GitHub
-
 # 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT.
