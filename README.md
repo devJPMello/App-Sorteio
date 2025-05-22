@@ -1,8 +1,8 @@
-#🎲 App de Sorteio
+# 🎲 App de Sorteio
 
 Um aplicativo interativo para realizar sorteios de números ou nomes com diversas funcionalidades, temas personalizados e animações, desenvolvido com React.
 
-#🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 - ✅ Sorteio de números com ou sem repetição
 
@@ -16,7 +16,7 @@ Um aplicativo interativo para realizar sorteios de números ou nomes com diversa
 
 - ✅ Confete ao sortear 🎉 (canvas-confetti)
 
-#🖼️ Interface
+# 🖼️ Interface
 
 ![Sorteio em ação](public/image.png)
 
