@@ -30,6 +30,14 @@ Um aplicativo interativo para realizar sorteios de números ou nomes com diversa
 
 - 📦 Instalação Local
 
+ # 🔧 Tecnologias
+
+- React + Vite
+
+- CSS puro com suporte a temas
+
+- canvas-confetti
+
 # Clone o repositório
 git clone https://github.com/devJPMello/app-de-sorteio.git
 cd app-de-sorteio
@@ -42,21 +50,12 @@ npm start
 
 Acesse: http://localhost:3000
 
-🔧 Tecnologias
-
-- React + Vite
-
-- CSS puro com suporte a temas
-
-- canvas-confetti
-
-
-👨‍💻 Autor
+# 👨‍💻 Autor
 
 - Desenvolvido por DevJPMello
 🔗 LinkedIn • GitHub
 
-📄 Licença
+# 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT.
 
