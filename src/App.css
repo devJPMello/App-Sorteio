@@ -129,13 +129,24 @@ html, body {
 }
 
 .app-root.cyberpunk .button {
-  background-color: #ff00ff;
+  background-color: #00ffff; /* Agora o botão padrão é azul neon */
   color: #000;
 }
 
 .app-root.cyberpunk .button:hover {
+  background-color: #44ffff;
+}
+
+.app-root.cyberpunk .button.danger {
+  background-color: #ff00ff; /* Agora o botão de reset é rosa neon */
+  color: #000;
+}
+
+.app-root.cyberpunk .button.danger:hover {
   background-color: #ff44ff;
 }
+
+
 
 .app-root.retro .button {
   background-color: #ffd700;
@@ -145,6 +156,16 @@ html, body {
 .app-root.retro .button:hover {
   background-color: #ffcf33;
 }
+
+.app-root.retro .button.danger {
+  background-color: #ff7f50;
+  color: #000;
+}
+
+.app-root.retro .button.danger:hover {
+  background-color: #ff9966;
+}
+
 
 .resultado {
   margin-top: 30px;

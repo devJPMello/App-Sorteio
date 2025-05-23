@@ -154,8 +154,8 @@ function App() {
         </div>
 
         <div className="actions">
-          <button onClick={sortearNumero} className="button" disabled={esperando}>Sortear</button>
           <button onClick={resetarTudo} className="button danger">Resetar</button>
+          <button onClick={sortearNumero} className="button" disabled={esperando}>Sortear</button>
         </div>
 
         {esperando && contador > 0 && <div className="contador"><h2>Contando: {contador}...</h2></div>}
@@ -187,8 +187,8 @@ function App() {
           </div>
         </footer>
       </div>
-      </div>
-      );
+    </div>
+  );
 }
 
-      export default App;
+export default App;
